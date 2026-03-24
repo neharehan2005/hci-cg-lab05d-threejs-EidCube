@@ -1,8 +1,8 @@
-import PremiumEidCubeAllInOn from "./Cube"
+import PremiumEidCubeAllInOne from "./Cube"
 
 
 function App() {
-    return <Cube />;
+    return <PremiumEidCubeAllInOne />;
     
 }
 
