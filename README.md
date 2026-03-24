@@ -20,13 +20,7 @@ A 3D interactive Eid-themed cube built with React and Three.js. The cube rotates
 * Text appears in the center with glow effect
 * Stars animate around the scene
 
-## Files
 
-```
-│── App.jsx
-│── PremiumEidCubeAllInOne.jsx
-│── textures/
-```
 
 ## Tech Used
 
