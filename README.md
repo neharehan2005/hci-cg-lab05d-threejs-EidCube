@@ -29,5 +29,5 @@ A 3D interactive Eid-themed cube built with React and Three.js. The cube rotates
 
 ---
 
-
+🚀 ## Live Demo
 https://hci-cg-lab05d-threejs-eid-cube.vercel.app/
