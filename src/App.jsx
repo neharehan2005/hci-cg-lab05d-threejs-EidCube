@@ -1,4 +1,4 @@
-import Cube from "./Cube"
+import PremiumEidCubeAllInOn from "./Cube"
 
 
 function App() {
